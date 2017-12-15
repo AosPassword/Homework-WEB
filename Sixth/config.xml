@@ -1,0 +1,6 @@
+<root>
+    <port>3306</port>
+    <dbUser>root</dbUser>
+    <dbPass>zxc981201</dbPass>
+    <dbName>filepath</dbName>
+</root>
